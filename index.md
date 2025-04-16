@@ -3,34 +3,27 @@ layout: default
 title: "Home"
 ---
 
-# Welcome to My Cybersecurity Portfolio
+<img src="link-to-your-headshot.jpg" alt="Pooja" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
 
-Hello! I’m Pooja, a results-driven IT professional transitioning into cybersecurity, leveraging 5+ years of experience in digital banking implementations and consulting. My passion lies in securing information assets and enabling robust security programs.
+# Pooja
 
----
+Consultant | Cybersecurity | GRC | SIEM | Cloud Security
 
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
-- [GitHub](https://github.com/yourgithubprofile)
-- [Email](mailto:poojalakshmigauty@gmail.com)
+Results-driven IT professional transitioning into cybersecurity. Passionate about securing information assets and enabling robust security programs.
 
 ---
 
-## Explore My Site
+## Connect
 
-- [About Me](/about/)
-- [Projects](/projects/)
-- [Career Gap](/career-gap/)
+[LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) | [GitHub](https://github.com/yourgithubprofile) | [Email](mailto:poojalakshmigauty@gmail.com)
 
 ---
 
-## Quick Bio
+## Explore
 
-With a background in secure banking applications, I've built a solid foundation in GRC and defensive cybersecurity through certifications, hands-on projects, and continuous learning. Explore my projects for a detailed look at my skills and accomplishments.
-
-I am actively seeking opportunities in cybersecurity GRC consulting or as a Security Analyst.
+[About Me](/about/) | [Projects](/projects/) | [Career Transition](/career-gap/)
 
 ---
 
-*Thank you for visiting!*
+Seeking opportunities in Cybersecurity GRC Consulting or Security Analyst roles.
+
